@@ -53,5 +53,4 @@ pip install numpy pandas matplotlib seaborn scipy statsmodels
 - **Course Assignment:** Inspired by statistical methods covered in coursework.
 - **Data Source:** [Higher Education Predictors of Student Retention](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention).
 
-## Contact
-For further inquiries, contact [Your Name] at [your.email@example.com].
+
